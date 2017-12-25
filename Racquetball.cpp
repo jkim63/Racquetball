@@ -1,4 +1,3 @@
-//cse20311.01
 //Project: Racquetball
 //Joo Yun (Rosa) Kim
 
